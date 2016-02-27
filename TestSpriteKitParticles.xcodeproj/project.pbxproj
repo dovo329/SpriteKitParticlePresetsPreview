@@ -13,8 +13,14 @@
 		A503CEAB1C81E5D1001AB5EA /* Smoke.sks in Resources */ = {isa = PBXBuildFile; fileRef = A503CEAA1C81E5D1001AB5EA /* Smoke.sks */; };
 		A503CEAD1C81E5EF001AB5EA /* Snow.sks in Resources */ = {isa = PBXBuildFile; fileRef = A503CEAC1C81E5EF001AB5EA /* Snow.sks */; };
 		A503CEAF1C81E61A001AB5EA /* Spark.sks in Resources */ = {isa = PBXBuildFile; fileRef = A503CEAE1C81E61A001AB5EA /* Spark.sks */; };
+		A535AD8B1C81EBD9008B22A9 /* Smoke.scnp in Resources */ = {isa = PBXBuildFile; fileRef = A535AD891C81EBD9008B22A9 /* Smoke.scnp */; };
+		A535AD8C1C81EBD9008B22A9 /* smoke.png in Resources */ = {isa = PBXBuildFile; fileRef = A535AD8A1C81EBD9008B22A9 /* smoke.png */; };
 		A58A4ABC1C81E8040041E985 /* bokeh.png in Resources */ = {isa = PBXBuildFile; fileRef = A58A4ABA1C81E8040041E985 /* bokeh.png */; };
 		A58A4ABD1C81E8040041E985 /* Bokeh.sks in Resources */ = {isa = PBXBuildFile; fileRef = A58A4ABB1C81E8040041E985 /* Bokeh.sks */; };
+		A58A4AC41C81E9CF0041E985 /* Reactor.scnp in Resources */ = {isa = PBXBuildFile; fileRef = A58A4AC21C81E9CF0041E985 /* Reactor.scnp */; };
+		A58A4AC51C81E9CF0041E985 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = A58A4AC31C81E9CF0041E985 /* spark.png */; };
+		A58A4AC81C81EA160041E985 /* Stars.scnp in Resources */ = {isa = PBXBuildFile; fileRef = A58A4AC61C81EA160041E985 /* Stars.scnp */; };
+		A58A4AC91C81EA160041E985 /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = A58A4AC71C81EA160041E985 /* star.png */; };
 		A5C05D1B1C81E414004E4DA2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C05D1A1C81E414004E4DA2 /* main.m */; };
 		A5C05D1E1C81E414004E4DA2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C05D1D1C81E414004E4DA2 /* AppDelegate.m */; };
 		A5C05D211C81E414004E4DA2 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = A5C05D201C81E414004E4DA2 /* GameScene.m */; };
@@ -25,6 +31,8 @@
 		A5C05D2E1C81E414004E4DA2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5C05D2C1C81E414004E4DA2 /* LaunchScreen.storyboard */; };
 		A5C05D3B1C81E508004E4DA2 /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = A5C05D391C81E508004E4DA2 /* Fire.sks */; };
 		A5C05D3C1C81E508004E4DA2 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = A5C05D3A1C81E508004E4DA2 /* spark.png */; };
+		A5EEDC1C1C81EB8B0085047B /* Rain.scnp in Resources */ = {isa = PBXBuildFile; fileRef = A5EEDC1B1C81EB8B0085047B /* Rain.scnp */; };
+		A5FB02441C81EA5A00B12D1D /* Bokeh.scnp in Resources */ = {isa = PBXBuildFile; fileRef = A5FB02431C81EA5A00B12D1D /* Bokeh.scnp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,8 +42,14 @@
 		A503CEAA1C81E5D1001AB5EA /* Smoke.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Smoke.sks; sourceTree = "<group>"; };
 		A503CEAC1C81E5EF001AB5EA /* Snow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Snow.sks; sourceTree = "<group>"; };
 		A503CEAE1C81E61A001AB5EA /* Spark.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Spark.sks; sourceTree = "<group>"; };
+		A535AD891C81EBD9008B22A9 /* Smoke.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = Smoke.scnp; sourceTree = "<group>"; };
+		A535AD8A1C81EBD9008B22A9 /* smoke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smoke.png; sourceTree = "<group>"; };
 		A58A4ABA1C81E8040041E985 /* bokeh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bokeh.png; sourceTree = "<group>"; };
 		A58A4ABB1C81E8040041E985 /* Bokeh.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Bokeh.sks; sourceTree = "<group>"; };
+		A58A4AC21C81E9CF0041E985 /* Reactor.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; name = Reactor.scnp; path = ../Reactor.scnp; sourceTree = "<group>"; };
+		A58A4AC31C81E9CF0041E985 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spark.png; path = ../spark.png; sourceTree = "<group>"; };
+		A58A4AC61C81EA160041E985 /* Stars.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = Stars.scnp; sourceTree = "<group>"; };
+		A58A4AC71C81EA160041E985 /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
 		A5C05D161C81E414004E4DA2 /* TestSpriteKitParticles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestSpriteKitParticles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C05D1A1C81E414004E4DA2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A5C05D1C1C81E414004E4DA2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +65,8 @@
 		A5C05D2F1C81E414004E4DA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A5C05D391C81E508004E4DA2 /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
 		A5C05D3A1C81E508004E4DA2 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		A5EEDC1B1C81EB8B0085047B /* Rain.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; name = Rain.scnp; path = ../Rain.scnp; sourceTree = "<group>"; };
+		A5FB02431C81EA5A00B12D1D /* Bokeh.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = Bokeh.scnp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +99,14 @@
 		A5C05D181C81E414004E4DA2 /* TestSpriteKitParticles */ = {
 			isa = PBXGroup;
 			children = (
+				A5EEDC1B1C81EB8B0085047B /* Rain.scnp */,
+				A535AD891C81EBD9008B22A9 /* Smoke.scnp */,
+				A535AD8A1C81EBD9008B22A9 /* smoke.png */,
+				A58A4AC61C81EA160041E985 /* Stars.scnp */,
+				A58A4AC71C81EA160041E985 /* star.png */,
+				A5FB02431C81EA5A00B12D1D /* Bokeh.scnp */,
+				A58A4AC21C81E9CF0041E985 /* Reactor.scnp */,
+				A58A4AC31C81E9CF0041E985 /* spark.png */,
 				A58A4ABA1C81E8040041E985 /* bokeh.png */,
 				A58A4ABB1C81E8040041E985 /* Bokeh.sks */,
 				A503CEA41C81E585001AB5EA /* FireFlies.sks */,
@@ -175,17 +199,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				A503CEA51C81E585001AB5EA /* FireFlies.sks in Resources */,
+				A58A4AC81C81EA160041E985 /* Stars.scnp in Resources */,
 				A503CEA91C81E5B2001AB5EA /* Rain.sks in Resources */,
 				A503CEAD1C81E5EF001AB5EA /* Snow.sks in Resources */,
 				A503CEAF1C81E61A001AB5EA /* Spark.sks in Resources */,
+				A5EEDC1C1C81EB8B0085047B /* Rain.scnp in Resources */,
 				A5C05D3B1C81E508004E4DA2 /* Fire.sks in Resources */,
+				A5FB02441C81EA5A00B12D1D /* Bokeh.scnp in Resources */,
+				A535AD8B1C81EBD9008B22A9 /* Smoke.scnp in Resources */,
 				A5C05D231C81E414004E4DA2 /* GameScene.sks in Resources */,
 				A5C05D2E1C81E414004E4DA2 /* LaunchScreen.storyboard in Resources */,
+				A535AD8C1C81EBD9008B22A9 /* smoke.png in Resources */,
 				A58A4ABC1C81E8040041E985 /* bokeh.png in Resources */,
 				A5C05D2B1C81E414004E4DA2 /* Assets.xcassets in Resources */,
 				A5C05D3C1C81E508004E4DA2 /* spark.png in Resources */,
+				A58A4AC91C81EA160041E985 /* star.png in Resources */,
 				A503CEA71C81E59F001AB5EA /* Magic.sks in Resources */,
+				A58A4AC41C81E9CF0041E985 /* Reactor.scnp in Resources */,
 				A58A4ABD1C81E8040041E985 /* Bokeh.sks in Resources */,
+				A58A4AC51C81E9CF0041E985 /* spark.png in Resources */,
 				A5C05D291C81E414004E4DA2 /* Main.storyboard in Resources */,
 				A503CEAB1C81E5D1001AB5EA /* Smoke.sks in Resources */,
 			);
